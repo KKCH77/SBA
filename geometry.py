@@ -1,3 +1,4 @@
+# Step 9 complite by Kargo
 import math
 def triangle_area(base, height):
     """Calculates the area of a triangle."""
